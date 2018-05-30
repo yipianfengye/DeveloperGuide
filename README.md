@@ -3,3 +3,5 @@
 图解 Android 事件分发机制 https://www.jianshu.com/p/e99b5e8bd67b
 
 Android 安装apk时，报错 Failure [INSTALL_FAILED_TEST_ONLY] https://blog.csdn.net/go_aheady/article/details/79148892
+
+你真的会用Gson吗?Gson使用指南 https://www.jianshu.com/p/e740196225a4
